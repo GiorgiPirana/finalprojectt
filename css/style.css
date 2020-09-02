@@ -16,7 +16,6 @@
   padding: 0;
   text-decoration: none;
   list-style: none;
-  color: #4d4d4d;
 }
 .body {
   max-width: 1920px;
@@ -147,7 +146,6 @@ header {
   box-sizing: border-box;
   position: relative;
   margin-bottom: 100px;
-  /* border: black solid; */
 }
 .img {
   width: 50%;
@@ -194,11 +192,10 @@ header {
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
-  /* flex-wrap: wrap; */
   padding-right: 170px;
   padding-left: 170px;
   margin-bottom: 100px;
-  /* border: black solid; */
+  
 }
 .menulist li {
   width: 480px;
@@ -243,7 +240,7 @@ header {
   padding-left: 150px;
   box-sizing: border-box;
   margin-bottom: 100px;
-  /* border: black solid; */
+  
 }
 .mostseen li {
   width: 480px;
